@@ -1,2 +1,2 @@
-# Eternal-Egypt
-Eternal Egypt is a cultural and technological project that allows users to virtually explore ancient Egyptian temples, museums, and artifacts through interactive digital experiences. It was created to preserve Egypt’s heritage and make it accessible worldwide
+# Mockify
+Mockups are digital images that show how products will look before production. They help brands and designers present their products online in a professional, attractive, and customizable way without the cost of real production or photoshoots.
